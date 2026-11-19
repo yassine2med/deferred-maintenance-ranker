@@ -1,0 +1,11 @@
+id,building,description,condition,consequence,cost,life_safety
+D01,Building A,Replace failed emergency lighting battery packs,5,4,6500,yes
+D02,Building A,Repaint stairwell walls,3,1,4200,no
+D03,Building B,Replace rooftop unit 2 compressor,4,4,28000,no
+D04,Building B,Repair cracked parking deck joint,4,3,9500,no
+D05,Building C,Replace corroded sprinkler riser section,4,5,12000,yes
+D06,Building C,Re-caulk exterior windows north side,3,2,3800,no
+D07,Building A,Replace worn chiller isolation valves,3,4,7200,no
+D08,Building D,Replace leaking roof section over server room,5,5,34000,no
+D09,Building D,Replace cracked sidewalk panels,3,2,5100,no
+D10,Building B,Service fire pump controller,3,5,2400,yes
